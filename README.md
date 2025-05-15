@@ -1,3 +1,4 @@
+<img src="./github-header-image.png" alt="" />
 <h3>Hi 👋, I'm Anand, I'm a software developer with experience in React, Spring Boot, AWS, and DevOps tools.</h3>
 <p>I'm currently learning Full Stack Development</p>
 <h2>🚀 Languages and Tools I Use</h2>
